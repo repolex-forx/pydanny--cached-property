@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydanny/cached-property/commit/c032196d9afdf4b21d041c7d1492c95f5d1d6740",
       "git:hexsha": "c032196d9afdf4b21d041c7d1492c95f5d1d6740",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2.0.1"
     },
     {
