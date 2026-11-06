@@ -1,0 +1,11 @@
+{
+  "org": "pydanny",
+  "repo": "cached-property",
+  "versions": [
+    {
+      "commit": "c032196d9afdf4b21d041c7d1492c95f5d1d6740",
+      "tag": "2.0.1",
+      "parsed_at": "2026-11-06T07:05:17.887756+00:00"
+    }
+  ]
+}
