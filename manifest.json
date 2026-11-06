@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "pydanny",
+  "repo": "cached-property",
+  "versions": [
+    {
+      "commit": "c032196d9afdf4b21d041c7d1492c95f5d1d6740",
+      "parsed_at": "2026-11-06T07:03:08.637417+00:00",
+      "tag": "2.0.1",
+      "filetree": "filetree/c032196d9afdf4b21d041c7d1492c95f5d1d6740.nq.gz",
+      "blobs": [
+        "blob/b0df7f7c2e9b412a5d54b9f55af83ca7e38e2d9e.nq.gz",
+        "blob/1df1886df8c8820090b6cc4602860d7eea76179c.nq.gz",
+        "blob/9aecff9a27188ff9df8e9949e096b5cc437ecf01.nq.gz",
+        "blob/a181761ca55c8ca4601cf3143c220c12f547d9b0.nq.gz",
+        "blob/837806a52243c6eecc7f2a2639c8ea6dbfcf1186.nq.gz",
+        "blob/e83ecca8bf918b9dcd98005f60dad74ef3744b10.nq.gz",
+        "blob/387699d3c963d9494626a5246cc66b32c2fa81ac.nq.gz",
+        "blob/e8faca3c0397ac9fcd3eae8671dce3ddf7a56f18.nq.gz",
+        "blob/efa122992589d0239f4091796d99f0e08a52db62.nq.gz",
+        "blob/e6336c8a6d3776b4ddbddc25bf1f65fed0cdf71b.nq.gz",
+        "blob/e83ad16b2204acc965c696f2bb66b2f9780df199.nq.gz",
+        "blob/29758fdc058850cfe465f6eb39aad42a23fd1bdb.nq.gz",
+        "blob/24e1f793cbe848ac6a028680dc346693888c8a90.nq.gz",
+        "blob/2446d517f1e14f18cd72abcf9380460c76dd5e82.nq.gz",
+        "blob/75454c8052e14ec47bd62ca8e7c863408b28ffe8.nq.gz",
+        "blob/0bcaa1aaa90a93c494ad3237e6a96cbbf17c4a8c.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/152dfc28781d49c6081786839ac4ebaba2b85494.nq.gz",
+        "blob/75d8df9759b2fb0ea3a23862711c63e30de9901f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
